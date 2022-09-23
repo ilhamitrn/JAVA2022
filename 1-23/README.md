@@ -1,2 +1,2 @@
-#_1-23 Video Ders Kodları_
+# _1-23 Video Ders Kodları_
  
